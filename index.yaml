@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   mongodb-enterprise-operator:
   - apiVersion: v1
-    created: "2020-10-08T15:07:44.905209+01:00"
+    created: "2020-10-08T15:14:33.887819+01:00"
     description: MongoDB Kubernetes Enterprise Operator
     digest: 362e8481b19a2a25b0f1577812c6511772ef1544b5c048ef346d662af5c8e3c4
     home: https://github.com/mongodb/mongodb-enterprise-kubernetes
@@ -15,6 +15,6 @@ entries:
     - name: Cloud Team
     name: mongodb-enterprise-operator
     urls:
-    - https://rodrigovalin.github.io/mongodb-enterprise-kubernetes/mongodb-enterprise-operator-1.8.0.tgz
+    - https://rodrigovalin.github.io/charts/mongodb-enterprise-operator-1.8.0.tgz
     version: 1.8.0
-generated: "2020-10-08T15:07:44.901569+01:00"
+generated: "2020-10-08T15:14:33.879639+01:00"
